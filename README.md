@@ -1,4 +1,6 @@
-# QuikCht
-a quick chatting application designed for simplicity and effectiveness, designed to also be use on private networks. NOT on the internet. it uses 2048 bit encryption as a standard.
+# Project QuikCht
+   a chatting application designed to be setup quickly, simply and securely. Privacy, simplicity and effectiveness are and WILL         always be the main objective of this appliction. and ZERO data is shared with third parties, or the developer(s).
 
-this is a current work in progress and may not be reliable / bug-proof.
+
+## IMPORTANT NOTICE
+This is a current work in progress and may not be reliable / bug-proof.
